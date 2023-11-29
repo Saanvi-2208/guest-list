@@ -1,0 +1,29 @@
+#submit_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#sort_button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+input{
+    margin:10px ;
+}
+body{
+    background-position: center;
+    background-size: cover;
+    font-family: cursive;
+}
+button{
+    width: 100px;
+    height: 35px;
+    background-color: purple;
+    color: aliceblue;
+    border-radius: 10px;
+    font-family: cursive;
+    font-size: 16px;
+}
+h3{
+    font-size: 25px;
+}
